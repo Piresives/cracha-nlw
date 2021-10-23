@@ -30,7 +30,7 @@ function getGitHubProfileInfos(){
 })
 }
   
-    
-
   getGitHubProfileInfos()
+alert("seja bem vindo")
+
 
