@@ -18,16 +18,17 @@ html,
   }
 
 main {
-  background: url(images/background.png) ;
-  width: 375px;
+  background: url(images/background.png) no-repeat center/cover;
+  width: 100vw;
   height: 812px;
-  text-align: center;
+  text-align: 100vh;
 }
 
 .container {
   max-width: 250px;
   margin-left: auto;
   margin-right: auto;
+  text-aling: center;
 
   color: var(--gray);
 }
